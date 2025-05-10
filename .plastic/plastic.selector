@@ -1,0 +1,4 @@
+repository "marvel clicker/marvel clicker@1375784420178@cloud"
+  path "/"
+    br "/main"
+    co "/main"
